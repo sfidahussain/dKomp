@@ -1,0 +1,8 @@
+{
+  "name": "dKompApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "3bc471e9"
+}
