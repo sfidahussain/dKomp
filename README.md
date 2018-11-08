@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# dKomp
-=======
 # dKomp
 
 The purpose of most social media apps is sharing things about yourself. They focus on a multitude of things and more often than not, the things people share are visual. They share photos, videos, and links, but music is not something you know right off the bat with people. It usually takes a few conversations to get to know what bands or music someone is interested in. They say life needs a soundtrack, I say share your soundtrack with the app: Decompose. 
@@ -14,4 +11,3 @@ These instructions will get you a copy of the project up and running on your loc
 ## Authors
 
 * **Sanaa Fidahussain** - 
->>>>>>> 9b53f2f49a58045eb09e32d14fd146ccc946f543
